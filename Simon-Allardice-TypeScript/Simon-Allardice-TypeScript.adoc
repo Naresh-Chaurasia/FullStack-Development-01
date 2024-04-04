@@ -6,6 +6,13 @@
 
 == How TypeScript Can Help
 
+----
+npm install -g typescript
+
+tsc --init
+----
+
+
 image::typescript1.png[]
 
 ---
@@ -18,4 +25,7 @@ You don't have to change anything about how the application runs. The benefits o
 
 ---
 
+*How TypeScript Helps: Organization*
+
+image::typescript3.png[]
 

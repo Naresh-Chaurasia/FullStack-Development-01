@@ -1,4 +1,4 @@
-= Simplilearn Interview
+= Simplilearn Fullstack
 :toc: left
 :toclevels: 5
 :sectnums:
@@ -12,6 +12,17 @@ IMPORTANT: IMPORTANT
 CAUTION: CAUTION
 
 WARNING: WARNING
+
+* 30 Minutes Break
+* Poll
+* 20 Minutes for session
+
+
+---
+
+
+* 0.1 TOC
+** React-TOC.xlsx
 
 
 
@@ -28,6 +39,89 @@ WARNING: WARNING
 
 
 * [ ] /Users/nareshchaurasia/nc/Simplilearn-FullStack
+
+== Schedule
+
+* 6th Apr ,7th Apr 
+* ,13th Apr ,14th Apr 
+* ,20th Apr ,21st Apr 
+* ,27th Apr ,28th Apr 
+* ,4th May ,5th May 
+* ,11th May ,12th May 
+* ,18th May ,19th May 
+* ,25th May ,26th May ,
+* 1st Jun ,2nd Jun
+
+
+== Course and Topics
+
+* *Agile*: https://drive.google.com/drive/folders/14uPaf1FT4ynJklpz-8Pog7kkRJ6K4LvR
+* Breathe and Go Slow.
+
+[cols="2,4,1,1"]
+|===
+|Topic |Question |Status|Date
+
+|Lesson_01_Understanding_Agile
+a|
+- Ok
+|Done
+|4.Apr
+
+|Lesson_02_Scrum_Methodology_Overview_Values,_and_Roles
+a|
+- Ok
+|Done
+|4.Apr
+
+|Lesson_03_Scrum_Ceremonies_and_Events
+a|
+- Need to look at it once again.
+|Done
+|4.Apr
+
+|Lesson_05_Kanban_Method
+a|
+- Ok
+| Done
+|4.Apr
+
+|===
+
+---
+
+* Git
+
+[cols="2,4,1,1"]
+|===
+|Topic |Question |Status|Date
+
+|Lesson_01_Introduction_to_Git
+a|
+- What is VPC
+|Done
+|4.Apr
+
+|Lesson_02_Installing_Git
+a|
+- Git Installation
+- BitBucket Installation
+- Installation in live session. Environment etc.
+|In Progress
+|
+
+|Lesson_03_Git_File_Management
+|Column 2, row 3
+|Column 3, row 3
+|
+
+|Column 1, row 4
+|Column 2, row 4
+|Column 3, row 4
+|
+|===
+
+
 
 
 == Full Stack
